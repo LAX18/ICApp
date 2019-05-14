@@ -1,21 +1,21 @@
 {
-  "short_name": "TextNow",
-  "name": "TextNow",
+  "short_name": "Infinite Campus",
+  "name": "Infinite Campus",
   "icons": [
     {
-      "src": "https://i.imgur.com/wcJUkRg.png",
+      "src": "https://imgur.com/R32VFEP.png",
       "type": "image/png",
       "sizes": "512x512"
     },
     {
-      "src": "https://i.imgur.com/uMp8TZs.png",
+      "src": "https://imgur.com/MzEWl4U.png",
       "type": "image/png",
       "sizes": "192x192"
     }
   ],
-  "start_url": "/TextnowWebApp/index.html",
+  "start_url": "/ICApp/index.html",
   "background_color": "#5222B4",
   "display": "standalone",
-  "scope": "/TextnowWebApp",
+  "scope": "/ICApp",
   "theme_color": "#5222B4"
 }
