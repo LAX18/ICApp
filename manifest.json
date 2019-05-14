@@ -14,7 +14,7 @@
     }
   ],
   "start_url": "/ICApp/index.html",
-  "background_color": "#5222B4",
+  "background_color": "#455b10",
   "display": "standalone",
   "scope": "/ICApp",
   "theme_color": "#5222B4"
